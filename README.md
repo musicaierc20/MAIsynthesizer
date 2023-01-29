@@ -2,7 +2,7 @@
 
 Music AI - a crypto project on a mission to empower current artists, producers and songwriters as well as inspire the next generation of music talent. This is achieved by allowing all of them to speed up their processes with the use of our Music AI tools. Our AI utilities will enable them to be more productive at the studio, help with sound design, auto detect mistakes (pitch, key), auto-adjust basic mixing levels, mastering and so on.
 
-This is one of our utilities - the MAIsynthesizer.
+This is one of our utilities - the **MAIsynthesizer**.
 
 ## Important Notes
 
