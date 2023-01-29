@@ -4,6 +4,8 @@ Music AI - a crypto project on a mission to empower current artists, producers a
 
 This is one of our utilities - the **MAIsynthesizer**.
 
+![IMG_0405](https://user-images.githubusercontent.com/118222221/215358096-b7a166ae-1150-4795-ad25-8a9ded27eed2.JPG)
+
 ## Important Notes
 
 - The latest implementation is based on the network architectures presented in BinaryMuseGAN, where the temporal structure is handled by 3D convolutional layers. The advantage of this design is its smaller network size, while the disadvantage is its reduced controllability, e.g., capability of feeding different latent variables for different measures or tracks.
